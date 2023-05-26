@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: white
+}
+
+header {
+    text-align: center;
+    background-color: tomato;
+    color: white;
+}
+
+h1 {
+    margin: 0;
+    padding: 10px;
+}
+
+img {
+    width: 750px;
+    display: block;
+    margin: 0 auto;
+}
+
+main, footer {
+    padding: 0 25px
+}
+
+.highlight {
+    font-family: sans-serif;
+    background-color: yellow;
+    color: black;
+}
